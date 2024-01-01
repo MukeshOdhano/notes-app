@@ -1,0 +1,9 @@
+.App-container{
+    display: grid;
+    grid-template-rows: 250px auto;
+}
+
+.App-main{
+
+
+}
