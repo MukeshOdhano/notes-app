@@ -1,7 +1,7 @@
 {
 	"homepage": "https://MukeshOdhano.github.io/todo-vite/",
 	"name": "basic",
-	"private": true,
+	"private": false,
 	"version": "0.0.0",
 	"type": "module",
 	"scripts": {
