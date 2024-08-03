@@ -1,7 +1,7 @@
 {
 	"name": "notes-app",
 	"homepage": "https://mukeshodhano.github.io/notes-app/",
-	"private": true,
+	"private": false,
 	"version": "0.0.0",
 	"type": "module",
 	"scripts": {
